@@ -1,9 +1,11 @@
 *.pyc
 *.egg-info
 .venv
+requirements.txt
 dist
 datasets
 pytorch_env
 models
 build
 correlation.egg-info
+
